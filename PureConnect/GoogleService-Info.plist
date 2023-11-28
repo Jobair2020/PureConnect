@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBAy5KnOykVP6YfagLvbcKXCp0Mw85ICQg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>436400635424</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>dipto.PureConnect</string>
+	<key>PROJECT_ID</key>
+	<string>pureconnect-5804d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pureconnect-5804d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:436400635424:ios:13de91ddb298f1e9cbc645</string>
+	<key>DATABASE_URL</key>
+	<string>https://pureconnect-5804d-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
